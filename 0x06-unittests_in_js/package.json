@@ -1,0 +1,11 @@
+{
+	"name": "mocha-test-project",
+	"version": "1.0.0",
+	"description": "Testing with Mocha",
+	"scripts": {
+	  "test": "mocha"
+	},
+	"devDependencies": {
+	  "mocha": "^9.1.3"
+	}
+  }
